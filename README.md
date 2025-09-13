@@ -5,4 +5,4 @@
         1. Nguyễn Thị Thu Hiền (nhóm trưởng)
         2. Lê Thị Trúc Hạ
         3. Nguyễn Thị Huyền
-        4. Lê Thị Khánh Vy
+        4. Nguyễn Thị Khánh Vy
