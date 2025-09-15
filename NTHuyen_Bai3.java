@@ -1,6 +1,8 @@
+package JAVA;
+
 import java.util.Scanner;
-public class NTHuyen_Bai3{
-    public static void main(String[] args){
+
+public class NTHuyen_Bai3 {public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);
         System.out.print("Nhap so nguyen thu nhat:");
         int a=scanner.nextInt();
@@ -27,3 +29,4 @@ public class NTHuyen_Bai3{
         scanner.close();
     }
 }
+    
