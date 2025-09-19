@@ -19,7 +19,7 @@ public class Bai2 {
 
         System.out.print("Ban co thich lap trinh khong? (true/false): ");
         boolean thichLapTrinh = sc.nextBoolean();
-
+VY
         System.out.println("\n=== Thong tin ca nhan ===");
         System.out.println("Ten: " + ten);
         System.out.println("Tuoi: " + tuoi);
